@@ -51,10 +51,11 @@
 
 <p align="center">
   <a href="TU_LINKEDIN">
-    <img src="https://www.linkedin.com/in/oscar-david-gamboa-valencia-028881357/">
+    <img src="https://img.shields.io/badge/LinkedIn-oscar-david-gamboa-valencia-028881357-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
 ⭐ *“Transformando datos en decisiones”*
+
