@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-OscarGamboa-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://www.linkedin.com/in/oscar-david-gamboa-valencia-028881357/">
   </a>
 </p>
 
