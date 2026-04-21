@@ -32,8 +32,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oskardmt009&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskardmt009&layout=compact&theme=tokyonight" height="150">
 </p>
 
 ---
@@ -50,12 +50,13 @@
 ## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-oscar-david-gamboa-valencia-028881357-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/oscar-david-gamboa-valencia-028881357/">
+    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Gamboa-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
 ---
 
 ⭐ *“Transformando datos en decisiones”*
+
 
